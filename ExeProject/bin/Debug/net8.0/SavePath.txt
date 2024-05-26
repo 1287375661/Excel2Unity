@@ -1,0 +1,5 @@
+{
+	"Excel_Path": "D:\\UnityProject\\ExcelRead\\Config",
+	"Scripts_Path": "D:\\UnityProject\\ExcelRead\\ExeProject\\Main\\Scripts",
+	"Data_Path": "D:\\UnityProject\\ExcelRead\\ExeProject\\Main\\Data"
+}
