@@ -20,7 +20,7 @@ SDK框架 .NET 6.0 及以上, 如果没安装SDK可能会导致工具闪退
 
 ![image](https://github.com/1287375661/ExcelToUnity/assets/45592691/0f718034-6654-4724-888d-dda1de772b3c)
 
-### 4配置填写说明
+### 4.配置填写说明
 
 #### 普通表
 
@@ -33,3 +33,7 @@ SDK框架 .NET 6.0 及以上, 如果没安装SDK可能会导致工具闪退
 #### 常量表
 
 ![image](https://github.com/1287375661/ExcelToUnity/assets/45592691/8be8fc6c-529f-4c70-89d8-780167dd69d3)
+
+### 补充说明
+
+生成的实体类加了[partial](https://learn.microsoft.com/zh-cn/previous-versions/wbx7zzdd(v=vs.80))修饰符,方便扩展
