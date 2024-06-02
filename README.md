@@ -10,11 +10,11 @@ SDK框架 .NET 6.0
 
 ![image](https://github.com/1287375661/ExcelToUnity/assets/45592691/4c3c1aec-855f-4edf-9593-9e01588088ac)
 
-### 2.生成路径SavePath.txt
+### 2.生成路径UnityDemo\配置工具\SavePath.txt
 
 ![image](https://github.com/1287375661/ExcelToUnity/assets/45592691/d444a58c-ea54-49b5-8064-93171dcf5550)
 
-### 3.运行ExeProject.exe 读取配置,生成实例类和数据
+### 3.运行UnityDemo\配置工具\ExeProject.exe 读取配置,生成实例类和数据
 
 ![image](https://github.com/1287375661/ExcelToUnity/assets/45592691/0f718034-6654-4724-888d-dda1de772b3c)
 
