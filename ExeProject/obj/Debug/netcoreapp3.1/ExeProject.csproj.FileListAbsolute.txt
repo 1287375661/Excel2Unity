@@ -1,0 +1,6 @@
+D:\UnityProject\ExcelToUnity\ExeProject\obj\Debug\netcoreapp3.1\ExeProject.csproj.AssemblyReference.cache
+D:\UnityProject\ExcelToUnity\ExeProject\obj\Debug\netcoreapp3.1\ExeProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\UnityProject\ExcelToUnity\ExeProject\obj\Debug\netcoreapp3.1\ExeProject.AssemblyInfoInputs.cache
+D:\UnityProject\ExcelToUnity\ExeProject\obj\Debug\netcoreapp3.1\ExeProject.AssemblyInfo.cs
+D:\UnityProject\ExcelToUnity\ExeProject\obj\Debug\netcoreapp3.1\ExeProject.csproj.CoreCompileInputs.cache
+D:\UnityProject\ExcelToUnity\ExeProject\obj\Debug\netcoreapp3.1\ExeProject.sourcelink.json

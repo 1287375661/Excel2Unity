@@ -4,7 +4,7 @@ using UnityEngine;
 
 namespace Config
 {
-    //D:\UnityProject\ExcelRead\Config\常量表.xlsx
+    //D:\UnityProject\ExcelToUnity\Config\常量表.xlsx
 		
     public partial class ValueConfig : IConfig
     {

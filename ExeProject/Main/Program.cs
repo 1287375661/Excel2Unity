@@ -15,6 +15,7 @@ namespace ExeProject
             //Config.ConfigLoader.ReadAllConfigs();//读取数据 ，必须先执行Generate() 
 
             Debug.Log("执行结束");
+            Console.ReadKey();
         }
 
         private static void Generate()

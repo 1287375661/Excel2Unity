@@ -4,7 +4,7 @@ using UnityEngine;
 
 namespace Config
 {
-    //D:\UnityProject\ExcelRead\Config\武器表.xlsx
+    //D:\UnityProject\ExcelToUnity\Config\武器表.xlsx
 		
     public partial class WeaponConfig : IConfig
     {

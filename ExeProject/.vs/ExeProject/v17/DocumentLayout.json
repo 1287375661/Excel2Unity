@@ -1,38 +1,54 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\UnityProject\\ExcelRead\\ExeProject\\",
+  "WorkspaceRootPath": "D:\\UnityProject\\ExcelToUnity\\ExeProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{65214089-289A-4AD2-A807-587D1D7C76A0}|ExeProject.csproj|d:\\unityproject\\excelread\\exeproject\\forunity\\configloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65214089-289A-4AD2-A807-587D1D7C76A0}|ExeProject.csproj|solutionrelative:forunity\\configloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{65214089-289A-4AD2-A807-587D1D7C76A0}|ExeProject.csproj|d:\\unityproject\\excelread\\exeproject\\forunity\\iconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{65214089-289A-4AD2-A807-587D1D7C76A0}|ExeProject.csproj|d:\\unityproject\\exceltounity\\exeproject\\forunity\\iconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{65214089-289A-4AD2-A807-587D1D7C76A0}|ExeProject.csproj|solutionrelative:forunity\\iconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{65214089-289A-4AD2-A807-587D1D7C76A0}|ExeProject.csproj|d:\\unityproject\\excelread\\exeproject\\main\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{65214089-289A-4AD2-A807-587D1D7C76A0}|ExeProject.csproj|d:\\unityproject\\exceltounity\\exeproject\\main\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{65214089-289A-4AD2-A807-587D1D7C76A0}|ExeProject.csproj|solutionrelative:main\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{65214089-289A-4AD2-A807-587D1D7C76A0}|ExeProject.csproj|d:\\unityproject\\excelread\\exeproject\\main\\exceltoscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65214089-289A-4AD2-A807-587D1D7C76A0}|ExeProject.csproj|solutionrelative:main\\exceltoscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{65214089-289A-4AD2-A807-587D1D7C76A0}|ExeProject.csproj|d:\\unityproject\\excelread\\exeproject\\main\\exceltoscript_template.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{65214089-289A-4AD2-A807-587D1D7C76A0}|ExeProject.csproj|d:\\unityproject\\exceltounity\\exeproject\\main\\exceltoscript_template.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{65214089-289A-4AD2-A807-587D1D7C76A0}|ExeProject.csproj|solutionrelative:main\\exceltoscript_template.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{65214089-289A-4AD2-A807-587D1D7C76A0}|ExeProject.csproj|d:\\unityproject\\excelread\\exeproject\\main\\savepath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65214089-289A-4AD2-A807-587D1D7C76A0}|ExeProject.csproj|solutionrelative:main\\savepath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{65214089-289A-4AD2-A807-587D1D7C76A0}|ExeProject.csproj|d:\\unityproject\\excelread\\exeproject\\main\\scripts\\valueconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{65214089-289A-4AD2-A807-587D1D7C76A0}|ExeProject.csproj|d:\\unityproject\\exceltounity\\exeproject\\main\\scripts\\valueconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{65214089-289A-4AD2-A807-587D1D7C76A0}|ExeProject.csproj|solutionrelative:main\\scripts\\valueconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{65214089-289A-4AD2-A807-587D1D7C76A0}|ExeProject.csproj|d:\\unityproject\\excelread\\exeproject\\main\\scripts\\weaponconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{65214089-289A-4AD2-A807-587D1D7C76A0}|ExeProject.csproj|d:\\unityproject\\exceltounity\\exeproject\\forunity\\configloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65214089-289A-4AD2-A807-587D1D7C76A0}|ExeProject.csproj|solutionrelative:forunity\\configloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65214089-289A-4AD2-A807-587D1D7C76A0}|ExeProject.csproj|d:\\unityproject\\exceltounity\\exeproject\\exeproject.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{65214089-289A-4AD2-A807-587D1D7C76A0}|ExeProject.csproj|solutionrelative:exeproject.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65214089-289A-4AD2-A807-587D1D7C76A0}|ExeProject.csproj|d:\\unityproject\\exceltounity\\exeproject\\main\\utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65214089-289A-4AD2-A807-587D1D7C76A0}|ExeProject.csproj|solutionrelative:main\\utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65214089-289A-4AD2-A807-587D1D7C76A0}|ExeProject.csproj|d:\\unityproject\\exceltounity\\exeproject\\main\\debug.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65214089-289A-4AD2-A807-587D1D7C76A0}|ExeProject.csproj|solutionrelative:main\\debug.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65214089-289A-4AD2-A807-587D1D7C76A0}|ExeProject.csproj|d:\\unityproject\\exceltounity\\exeproject\\main\\exceltodata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65214089-289A-4AD2-A807-587D1D7C76A0}|ExeProject.csproj|solutionrelative:main\\exceltodata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65214089-289A-4AD2-A807-587D1D7C76A0}|ExeProject.csproj|d:\\unityproject\\exceltounity\\exeproject\\main\\scripts\\weaponconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{65214089-289A-4AD2-A807-587D1D7C76A0}|ExeProject.csproj|solutionrelative:main\\scripts\\weaponconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65214089-289A-4AD2-A807-587D1D7C76A0}|ExeProject.csproj|d:\\unityproject\\exceltounity\\exeproject\\main\\savepath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65214089-289A-4AD2-A807-587D1D7C76A0}|ExeProject.csproj|solutionrelative:main\\savepath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65214089-289A-4AD2-A807-587D1D7C76A0}|ExeProject.csproj|d:\\unityproject\\exceltounity\\exeproject\\main\\exceltoscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65214089-289A-4AD2-A807-587D1D7C76A0}|ExeProject.csproj|solutionrelative:main\\exceltoscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 231,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,107 +70,155 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "IConfig.cs",
-              "DocumentMoniker": "D:\\UnityProject\\ExcelRead\\ExeProject\\ForUnity\\IConfig.cs",
-              "RelativeDocumentMoniker": "ForUnity\\IConfig.cs",
-              "ToolTip": "D:\\UnityProject\\ExcelRead\\ExeProject\\ForUnity\\IConfig.cs",
-              "RelativeToolTip": "ForUnity\\IConfig.cs",
+              "DocumentIndex": 6,
+              "Title": "Utility.cs",
+              "DocumentMoniker": "D:\\UnityProject\\ExcelToUnity\\ExeProject\\Main\\Utility.cs",
+              "RelativeDocumentMoniker": "Main\\Utility.cs",
+              "ToolTip": "D:\\UnityProject\\ExcelToUnity\\ExeProject\\Main\\Utility.cs",
+              "RelativeToolTip": "Main\\Utility.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T04:04:39.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ExcelToData.cs",
+              "DocumentMoniker": "D:\\UnityProject\\ExcelToUnity\\ExeProject\\Main\\ExcelToData.cs",
+              "RelativeDocumentMoniker": "Main\\ExcelToData.cs",
+              "ToolTip": "D:\\UnityProject\\ExcelToUnity\\ExeProject\\Main\\ExcelToData.cs",
+              "RelativeToolTip": "Main\\ExcelToData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T04:04:36.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Debug.cs",
+              "DocumentMoniker": "D:\\UnityProject\\ExcelToUnity\\ExeProject\\Main\\Debug.cs",
+              "RelativeDocumentMoniker": "Main\\Debug.cs",
+              "ToolTip": "D:\\UnityProject\\ExcelToUnity\\ExeProject\\Main\\Debug.cs",
+              "RelativeToolTip": "Main\\Debug.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T04:02:22.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IConfig.cs",
+              "DocumentMoniker": "D:\\UnityProject\\ExcelToUnity\\ExeProject\\ForUnity\\IConfig.cs",
+              "RelativeDocumentMoniker": "ForUnity\\IConfig.cs",
+              "ToolTip": "D:\\UnityProject\\ExcelToUnity\\ExeProject\\ForUnity\\IConfig.cs",
+              "RelativeToolTip": "ForUnity\\IConfig.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAcAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-26T16:58:48.727Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ConfigLoader.cs",
-              "DocumentMoniker": "D:\\UnityProject\\ExcelRead\\ExeProject\\ForUnity\\ConfigLoader.cs",
-              "RelativeDocumentMoniker": "ForUnity\\ConfigLoader.cs",
-              "ToolTip": "D:\\UnityProject\\ExcelRead\\ExeProject\\ForUnity\\ConfigLoader.cs",
-              "RelativeToolTip": "ForUnity\\ConfigLoader.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-26T16:58:48.08Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "WeaponConfig.cs",
-              "DocumentMoniker": "D:\\UnityProject\\ExcelRead\\ExeProject\\Main\\Scripts\\WeaponConfig.cs",
+              "DocumentMoniker": "D:\\UnityProject\\ExcelToUnity\\ExeProject\\Main\\Scripts\\WeaponConfig.cs",
               "RelativeDocumentMoniker": "Main\\Scripts\\WeaponConfig.cs",
-              "ToolTip": "D:\\UnityProject\\ExcelRead\\ExeProject\\Main\\Scripts\\WeaponConfig.cs",
+              "ToolTip": "D:\\UnityProject\\ExcelToUnity\\ExeProject\\Main\\Scripts\\WeaponConfig.cs",
               "RelativeToolTip": "Main\\Scripts\\WeaponConfig.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-26T16:58:10.391Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-26T16:58:10.391Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "ValueConfig.cs",
-              "DocumentMoniker": "D:\\UnityProject\\ExcelRead\\ExeProject\\Main\\Scripts\\ValueConfig.cs",
+              "DocumentMoniker": "D:\\UnityProject\\ExcelToUnity\\ExeProject\\Main\\Scripts\\ValueConfig.cs",
               "RelativeDocumentMoniker": "Main\\Scripts\\ValueConfig.cs",
-              "ToolTip": "D:\\UnityProject\\ExcelRead\\ExeProject\\Main\\Scripts\\ValueConfig.cs",
+              "ToolTip": "D:\\UnityProject\\ExcelToUnity\\ExeProject\\Main\\Scripts\\ValueConfig.cs",
               "RelativeToolTip": "Main\\Scripts\\ValueConfig.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-26T16:58:09.691Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "SavePath.cs",
-              "DocumentMoniker": "D:\\UnityProject\\ExcelRead\\ExeProject\\Main\\SavePath.cs",
+              "DocumentMoniker": "D:\\UnityProject\\ExcelToUnity\\ExeProject\\Main\\SavePath.cs",
               "RelativeDocumentMoniker": "Main\\SavePath.cs",
-              "ToolTip": "D:\\UnityProject\\ExcelRead\\ExeProject\\Main\\SavePath.cs",
+              "ToolTip": "D:\\UnityProject\\ExcelToUnity\\ExeProject\\Main\\SavePath.cs",
               "RelativeToolTip": "Main\\SavePath.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAADwvwgAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-26T16:57:30.702Z",
+              "WhenOpened": "2024-05-26T16:57:30.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\UnityProject\\ExcelToUnity\\ExeProject\\Main\\Program.cs",
+              "RelativeDocumentMoniker": "Main\\Program.cs",
+              "ToolTip": "D:\\UnityProject\\ExcelToUnity\\ExeProject\\Main\\Program.cs",
+              "RelativeToolTip": "Main\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAA0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T16:20:58.658Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "ExcelToScript_Template.cs",
-              "DocumentMoniker": "D:\\UnityProject\\ExcelRead\\ExeProject\\Main\\ExcelToScript_Template.cs",
+              "DocumentMoniker": "D:\\UnityProject\\ExcelToUnity\\ExeProject\\Main\\ExcelToScript_Template.cs",
               "RelativeDocumentMoniker": "Main\\ExcelToScript_Template.cs",
-              "ToolTip": "D:\\UnityProject\\ExcelRead\\ExeProject\\Main\\ExcelToScript_Template.cs",
+              "ToolTip": "D:\\UnityProject\\ExcelToUnity\\ExeProject\\Main\\ExcelToScript_Template.cs",
               "RelativeToolTip": "Main\\ExcelToScript_Template.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEQAAAAWAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAQAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-26T16:56:34.573Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ExcelToScript.cs",
-              "DocumentMoniker": "D:\\UnityProject\\ExcelRead\\ExeProject\\Main\\ExcelToScript.cs",
-              "RelativeDocumentMoniker": "Main\\ExcelToScript.cs",
-              "ToolTip": "D:\\UnityProject\\ExcelRead\\ExeProject\\Main\\ExcelToScript.cs",
-              "RelativeToolTip": "Main\\ExcelToScript.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAMkAAAAyAAAA",
+              "DocumentIndex": 4,
+              "Title": "ConfigLoader.cs",
+              "DocumentMoniker": "D:\\UnityProject\\ExcelToUnity\\ExeProject\\ForUnity\\ConfigLoader.cs",
+              "RelativeDocumentMoniker": "ForUnity\\ConfigLoader.cs",
+              "ToolTip": "D:\\UnityProject\\ExcelToUnity\\ExeProject\\ForUnity\\ConfigLoader.cs",
+              "RelativeToolTip": "ForUnity\\ConfigLoader.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-26T16:56:29.971Z",
+              "WhenOpened": "2024-06-02T04:04:42.956Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\UnityProject\\ExcelRead\\ExeProject\\Main\\Program.cs",
-              "RelativeDocumentMoniker": "Main\\Program.cs",
-              "ToolTip": "D:\\UnityProject\\ExcelRead\\ExeProject\\Main\\Program.cs",
-              "RelativeToolTip": "Main\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-26T16:20:58.658Z",
+              "DocumentIndex": 5,
+              "Title": "ExeProject",
+              "DocumentMoniker": "D:\\UnityProject\\ExcelToUnity\\ExeProject\\ExeProject.csproj",
+              "RelativeDocumentMoniker": "ExeProject.csproj",
+              "ToolTip": "D:\\UnityProject\\ExcelToUnity\\ExeProject\\ExeProject.csproj",
+              "RelativeToolTip": "ExeProject.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-02T04:05:26.379Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ExcelToScript.cs",
+              "DocumentMoniker": "D:\\UnityProject\\ExcelToUnity\\ExeProject\\Main\\ExcelToScript.cs",
+              "RelativeDocumentMoniker": "Main\\ExcelToScript.cs",
+              "ToolTip": "D:\\UnityProject\\ExcelToUnity\\ExeProject\\Main\\ExcelToScript.cs",
+              "RelativeToolTip": "Main\\ExcelToScript.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAMkAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T16:56:29.971Z"
             }
           ]
         }

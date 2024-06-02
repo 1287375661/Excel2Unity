@@ -1,7 +1,7 @@
 {
   "version": 3,
   "targets": {
-    "net8.0": {
+    "net6.0": {
       "ExcelDataReader/3.6.0": {
         "type": "package",
         "compile": {
@@ -34,10 +34,10 @@
       "LitJson/0.19.0": {
         "type": "package",
         "compile": {
-          "lib/net8.0/LitJSON.dll": {}
+          "lib/net6.0/LitJSON.dll": {}
         },
         "runtime": {
-          "lib/net8.0/LitJSON.dll": {}
+          "lib/net6.0/LitJSON.dll": {}
         }
       }
     }
@@ -111,7 +111,7 @@
     }
   },
   "projectFileDependencyGroups": {
-    "net8.0": [
+    "net6.0": [
       "ExcelDataReader >= 3.6.0",
       "ExcelDataReader.DataSet >= 3.6.0",
       "LitJson >= 0.19.0"
@@ -123,26 +123,26 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\UnityProject\\ExcelRead\\ExeProject\\ExeProject.csproj",
+      "projectUniqueName": "D:\\UnityProject\\ExcelToUnity\\ExeProject\\ExeProject.csproj",
       "projectName": "ExeProject",
-      "projectPath": "D:\\UnityProject\\ExcelRead\\ExeProject\\ExeProject.csproj",
+      "projectPath": "D:\\UnityProject\\ExcelToUnity\\ExeProject\\ExeProject.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "D:\\UnityProject\\ExcelRead\\ExeProject\\obj\\",
+      "outputPath": "D:\\UnityProject\\ExcelToUnity\\ExeProject\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "net8.0"
+        "net6.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
+        "net6.0": {
+          "targetAlias": "net6.0",
           "projectReferences": {}
         }
       },
@@ -158,8 +158,8 @@
       }
     },
     "frameworks": {
-      "net8.0": {
-        "targetAlias": "net8.0",
+      "net6.0": {
+        "targetAlias": "net6.0",
         "dependencies": {
           "ExcelDataReader": {
             "target": "Package",
@@ -190,7 +190,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
       }
     }
   }
