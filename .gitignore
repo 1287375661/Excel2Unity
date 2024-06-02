@@ -1,2 +1,11 @@
 
 /.svn
+/UnityDemo/Library
+/UnityDemo/Temp
+/UnityDemo/obj
+/UnityDemo/Logs
+/.vs
+UnityDemo/.vsconfig
+/UnityDemo/.vs
+*.csproj
+*.sln
