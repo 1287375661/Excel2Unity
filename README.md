@@ -6,9 +6,11 @@ Unity版本2022.3.21
 VisualStudio版本2022  
 SDK框架 .NET 6.0 及以上, 如果没安装SDK可能会导致工具闪退
 
-### 1.目录里有Unity工程,运行Test场景在控制台可以看到数据打印
+### 1.目录里有[Unity工程](https://github.com/1287375661/ExcelToUnity/tree/main/UnityDemo)
 
-![image](https://github.com/1287375661/ExcelToUnity/assets/45592691/4c3c1aec-855f-4edf-9593-9e01588088ac)
+运行场景在控制台可以看到数据打印
+
+![image](https://github.com/1287375661/ExcelToUnity/assets/45592691/85d70472-ea74-4ba3-a335-3f6597e64c6e)
 
 ### 2.生成路径UnityDemo\配置工具\SavePath.txt
 
