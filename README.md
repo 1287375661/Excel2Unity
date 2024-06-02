@@ -12,15 +12,15 @@ SDK框架 .NET 6.0 及以上, 如果没安装SDK可能会导致工具闪退
 
 ![image](https://github.com/1287375661/ExcelToUnity/assets/45592691/85d70472-ea74-4ba3-a335-3f6597e64c6e)
 
-### 2.生成路径UnityDemo\配置工具\SavePath.txt
-
-![image](https://github.com/1287375661/ExcelToUnity/assets/45592691/d444a58c-ea54-49b5-8064-93171dcf5550)
-
-### 3.运行UnityDemo\配置工具\ExeProject.exe 读取配置,生成实例类和数据
+### 2.运行UnityDemo\配置工具\ExeProject.exe 读取配置,生成实例类和数据
 
 ![image](https://github.com/1287375661/ExcelToUnity/assets/45592691/0f718034-6654-4724-888d-dda1de772b3c)
 
-### 4.配置填写说明
+### 3.生成路径UnityDemo\配置工具\SavePath.txt
+
+![image](https://github.com/1287375661/ExcelToUnity/assets/45592691/d444a58c-ea54-49b5-8064-93171dcf5550)
+
+### 4.配置填写规则
 
 #### 普通表
 
