@@ -1,5 +1,5 @@
 {
-	"Excel_Path": "D:\\UnityProject\\ExcelToUnity\\Config",
+	"Excel_Path": "D:\\UnityProject\\ExcelToUnity\\Demo\\配置工具\\Config",
 	"Scripts_Path": "D:\\UnityProject\\ExcelToUnity\\ExeProject\\Main\\Scripts",
 	"Data_Path": "D:\\UnityProject\\ExcelToUnity\\ExeProject\\Main\\Data"
 }
